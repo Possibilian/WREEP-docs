@@ -1,3 +1,3 @@
-# Windfall Residential Energy Efficiency Project Documentation
+# This Repository is Deprecated
 
-This page is a placeholder.
+Documentation for the Windfall Residential Energy Efficiency Project is located at [https://github.com/superbenefit/WREEP-docs](https://github.com/superbenefit/WREEP-docs)
